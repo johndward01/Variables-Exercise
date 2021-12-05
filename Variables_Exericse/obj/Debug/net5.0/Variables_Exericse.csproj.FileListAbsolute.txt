@@ -1,0 +1,16 @@
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\bin\Debug\net5.0\Variables_Exericse.exe
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\bin\Debug\net5.0\Variables_Exericse.deps.json
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\bin\Debug\net5.0\Variables_Exericse.runtimeconfig.json
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\bin\Debug\net5.0\Variables_Exericse.runtimeconfig.dev.json
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\bin\Debug\net5.0\Variables_Exericse.dll
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\bin\Debug\net5.0\ref\Variables_Exericse.dll
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\bin\Debug\net5.0\Variables_Exericse.pdb
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\obj\Debug\net5.0\Variables_Exericse.csproj.AssemblyReference.cache
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\obj\Debug\net5.0\Variables_Exericse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\obj\Debug\net5.0\Variables_Exericse.AssemblyInfoInputs.cache
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\obj\Debug\net5.0\Variables_Exericse.AssemblyInfo.cs
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\obj\Debug\net5.0\Variables_Exericse.csproj.CoreCompileInputs.cache
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\obj\Debug\net5.0\Variables_Exericse.dll
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\obj\Debug\net5.0\ref\Variables_Exericse.dll
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\obj\Debug\net5.0\Variables_Exericse.pdb
+C:\Users\johnd\Desktop\repository\Variables_Exericse\Variables_Exericse\obj\Debug\net5.0\Variables_Exericse.genruntimeconfig.cache
